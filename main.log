@@ -1,0 +1,127 @@
+2026-11-13 09:31:58,218 - INFO - archiv_tracker.validator - ✅ dailymed:e98f6d83-5172-97a1-ee41-5d7d1d8ba2fd: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:31:59,271 - INFO - archiv_tracker.summarizer - Резюме построено алгоритмом LSA (3 предложений).
+2026-11-13 09:31:59,271 - INFO - archiv_tracker.validator - ✅ dailymed:d6de1719-6fbd-4386-9f81-d65980dc4bd8: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:32:00,277 - INFO - archiv_tracker.summarizer - Резюме построено алгоритмом LSA (3 предложений).
+2026-11-13 09:32:00,277 - INFO - archiv_tracker.validator - ✅ dailymed:10db92f9-2300-4a80-836b-673e1ae91610: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:32:01,525 - INFO - archiv_tracker.summarizer - Резюме построено алгоритмом LSA (3 предложений).
+2026-11-13 09:32:02,384 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/rivaroxaban-viatris: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:32:02,407 - INFO - archiv_tracker.summarizer - Резюме построено алгоритмом LSA (3 предложений).
+2026-11-13 09:32:02,407 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/svariya: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:32:02,429 - INFO - archiv_tracker.summarizer - Резюме построено алгоритмом LSA (3 предложений).
+2026-11-13 09:32:02,429 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/xarelto: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:32:02,451 - INFO - archiv_tracker.summarizer - Резюме построено алгоритмом LSA (3 предложений).
+2026-11-13 09:33:13,898 - INFO - archiv_tracker.validator - ✅ dailymed:e98f6d83-5172-97a1-ee41-5d7d1d8ba2fd: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:33:14,928 - INFO - archiv_tracker.summarizer - Резюме построено алгоритмом LSA (3 предложений).
+2026-11-13 09:33:14,929 - INFO - archiv_tracker.validator - ✅ dailymed:d6de1719-6fbd-4386-9f81-d65980dc4bd8: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:33:15,936 - INFO - archiv_tracker.summarizer - Резюме построено алгоритмом LSA (3 предложений).
+2026-11-13 09:33:15,936 - INFO - archiv_tracker.validator - ✅ dailymed:10db92f9-2300-4a80-836b-673e1ae91610: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:33:17,178 - INFO - archiv_tracker.summarizer - Резюме построено алгоритмом LSA (3 предложений).
+2026-11-13 09:33:18,005 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/rivaroxaban-viatris: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:33:18,026 - INFO - archiv_tracker.summarizer - Резюме построено алгоритмом LSA (3 предложений).
+2026-11-13 09:33:18,026 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/svariya: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:33:18,047 - INFO - archiv_tracker.summarizer - Резюме построено алгоритмом LSA (3 предложений).
+2026-11-13 09:33:18,047 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/xarelto: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:33:18,067 - INFO - archiv_tracker.summarizer - Резюме построено алгоритмом LSA (3 предложений).
+2026-11-13 09:33:21,424 - INFO - archiv_tracker.validator - ✅ dailymed:e98f6d83-5172-97a1-ee41-5d7d1d8ba2fd: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:33:22,414 - INFO - archiv_tracker.summarizer - Резюме построено алгоритмом LSA (3 предложений).
+2026-11-13 09:33:22,414 - INFO - archiv_tracker.validator - ✅ dailymed:d6de1719-6fbd-4386-9f81-d65980dc4bd8: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:33:23,391 - INFO - archiv_tracker.summarizer - Резюме построено алгоритмом LSA (3 предложений).
+2026-11-13 09:33:23,392 - INFO - archiv_tracker.validator - ✅ dailymed:10db92f9-2300-4a80-836b-673e1ae91610: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:33:24,648 - INFO - archiv_tracker.summarizer - Резюме построено алгоритмом LSA (3 предложений).
+2026-11-13 09:33:25,824 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/rivaroxaban-viatris: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:33:25,866 - INFO - archiv_tracker.summarizer - Резюме построено алгоритмом LSA (3 предложений).
+2026-11-13 09:33:25,867 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/svariya: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:33:25,888 - INFO - archiv_tracker.summarizer - Резюме построено алгоритмом LSA (3 предложений).
+2026-11-13 09:33:25,888 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/xarelto: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:33:25,909 - INFO - archiv_tracker.summarizer - Резюме построено алгоритмом LSA (3 предложений).
+2026-11-13 09:37:26,358 - INFO - archiv_tracker.validator - ✅ dailymed:39e142a7-8590-4e1e-8319-6904fb57cc8a: тема «aspirin» найдена в заголовке или аннотации
+2026-11-13 09:37:28,071 - INFO - archiv_tracker.validator - ✅ dailymed:e98f6d83-5172-97a1-ee41-5d7d1d8ba2fd: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:37:30,536 - INFO - archiv_tracker.validator - ✅ dailymed:0230a3c3-34cf-478b-88c3-4d96e5300018: тема «metformin» найдена в заголовке или аннотации
+2026-11-13 09:37:48,483 - INFO - archiv_tracker.validator - ✅ dailymed:39e142a7-8590-4e1e-8319-6904fb57cc8a: тема «aspirin» найдена в заголовке или аннотации
+2026-11-13 09:37:49,388 - INFO - archiv_tracker.validator - ✅ dailymed:3c7883da-6f51-4716-b012-0e33d239a60e: тема «aspirin» найдена в заголовке или аннотации
+2026-11-13 09:37:50,256 - INFO - archiv_tracker.validator - ✅ dailymed:cc5db55a-a2b0-48f4-802b-9e5e94fd9ceb: тема «aspirin» найдена в заголовке или аннотации
+2026-11-13 09:38:01,853 - INFO - archiv_tracker.validator - ✅ dailymed:test: тема «aspirin» найдена в заголовке или аннотации
+2026-11-13 09:38:01,853 - ERROR - archiv_tracker.pipeline - Не удалось получить инструкцию DailyMed
+Traceback (most recent call last):
+  File "C:\Users\Seicho\OneDrive\Desktop\LLM_CODEX\medicine_atlas\pipeline.py", line 27, in search_sources
+    item["sections"] = dailymed_agent.fetch_label_sections(item["identifier"])
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Seicho\OneDrive\Desktop\LLM_CODEX\medicine_work\python312\Lib\unittest\mock.py", line 1139, in __call__
+    return self._mock_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Seicho\OneDrive\Desktop\LLM_CODEX\medicine_work\python312\Lib\unittest\mock.py", line 1143, in _mock_call
+    return self._execute_mock_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Seicho\OneDrive\Desktop\LLM_CODEX\medicine_work\python312\Lib\unittest\mock.py", line 1198, in _execute_mock_call
+    raise effect
+RuntimeError: unavailable
+2026-11-13 09:39:15,755 - INFO - archiv_tracker.validator - ✅ dailymed:e98f6d83-5172-97a1-ee41-5d7d1d8ba2fd: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:39:17,115 - INFO - archiv_tracker.validator - ✅ dailymed:d6de1719-6fbd-4386-9f81-d65980dc4bd8: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:39:18,460 - INFO - archiv_tracker.validator - ✅ dailymed:10db92f9-2300-4a80-836b-673e1ae91610: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:39:21,180 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/rivaroxaban-viatris: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:39:21,235 - INFO - archiv_tracker.summarizer - Резюме построено алгоритмом LSA (3 предложений).
+2026-11-13 09:39:21,235 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/svariya: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:39:21,255 - INFO - archiv_tracker.summarizer - Резюме построено алгоритмом LSA (3 предложений).
+2026-11-13 09:39:21,255 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/xarelto: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:39:21,274 - INFO - archiv_tracker.summarizer - Резюме построено алгоритмом LSA (3 предложений).
+2026-11-13 09:41:51,821 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/rivaroxaban-viatris: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:41:52,133 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/svariya: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:41:52,471 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/xarelto: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:41:52,809 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/ondexxya: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:41:53,853 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/rivaroxaban-accord: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:42:12,976 - INFO - archiv_tracker.validator - ✅ ema:test: тема «aspirin» найдена в заголовке или аннотации
+2026-11-13 09:42:28,566 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/rivaroxaban-viatris: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:42:28,867 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/svariya: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:42:29,131 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/xarelto: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:43:03,524 - INFO - archiv_tracker.validator - ✅ dailymed:e98f6d83-5172-97a1-ee41-5d7d1d8ba2fd: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:43:04,886 - INFO - archiv_tracker.validator - ✅ dailymed:d6de1719-6fbd-4386-9f81-d65980dc4bd8: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:43:06,122 - INFO - archiv_tracker.validator - ✅ dailymed:10db92f9-2300-4a80-836b-673e1ae91610: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:43:08,415 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/rivaroxaban-viatris: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:43:08,785 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/svariya: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:43:09,131 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/xarelto: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:44:09,475 - INFO - archiv_tracker.validator - ✅ dailymed:e98f6d83-5172-97a1-ee41-5d7d1d8ba2fd: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:44:10,725 - INFO - archiv_tracker.validator - ✅ dailymed:d6de1719-6fbd-4386-9f81-d65980dc4bd8: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:44:11,978 - INFO - archiv_tracker.validator - ✅ dailymed:10db92f9-2300-4a80-836b-673e1ae91610: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:44:14,303 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/rivaroxaban-viatris: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:44:14,600 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/svariya: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:44:14,862 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/xarelto: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:46:24,767 - INFO - archiv_tracker.validator - ✅ dailymed:e98f6d83-5172-97a1-ee41-5d7d1d8ba2fd: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:46:25,984 - INFO - archiv_tracker.validator - ✅ dailymed:d6de1719-6fbd-4386-9f81-d65980dc4bd8: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:46:27,219 - INFO - archiv_tracker.validator - ✅ dailymed:10db92f9-2300-4a80-836b-673e1ae91610: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:46:29,818 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/rivaroxaban-viatris: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:46:30,147 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/svariya: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:46:30,444 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/xarelto: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:47:44,431 - INFO - archiv_tracker.validator - ✅ dailymed:e98f6d83-5172-97a1-ee41-5d7d1d8ba2fd: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:47:45,663 - INFO - archiv_tracker.validator - ✅ dailymed:d6de1719-6fbd-4386-9f81-d65980dc4bd8: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:47:46,891 - INFO - archiv_tracker.validator - ✅ dailymed:10db92f9-2300-4a80-836b-673e1ae91610: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:47:49,074 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/rivaroxaban-viatris: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:47:49,375 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/svariya: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:47:49,642 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/xarelto: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:49:23,714 - INFO - archiv_tracker.validator - ✅ dailymed:e9481622-7cc6-418a-acb6-c5450daae9b0: тема «apixaban» найдена в заголовке или аннотации
+2026-11-13 09:49:25,099 - INFO - archiv_tracker.validator - ✅ dailymed:41a133ef-e461-48ad-8221-b735bdd0ec25: тема «apixaban» найдена в заголовке или аннотации
+2026-11-13 09:49:26,590 - INFO - archiv_tracker.validator - ✅ dailymed:7be1f4c1-bb2f-4ded-ae9a-515d2a22f93e: тема «apixaban» найдена в заголовке или аннотации
+2026-11-13 09:49:29,921 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/apixaban-accord: тема «apixaban» найдена в заголовке или аннотации
+2026-11-13 09:49:31,004 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/eliquis: тема «apixaban» найдена в заголовке или аннотации
+2026-11-13 09:49:31,305 - ERROR - archiv_tracker.pipeline - Не удалось загрузить раздел рисков EMA
+Traceback (most recent call last):
+  File "C:\Users\Seicho\OneDrive\Desktop\LLM_CODEX\medicine_atlas\pipeline.py", line 34, in search_sources
+    risk = ema_agent.fetch_risk_section(item["url"])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Seicho\OneDrive\Desktop\LLM_CODEX\medicine_atlas\ema_agent.py", line 32, in fetch_risk_section
+    resp.raise_for_status()
+  File "C:\Users\Seicho\OneDrive\Desktop\учеба\TEST\Medicine\MAS-main\Лекция_3\.venv312\Lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://www.ema.europa.eu/en/medicines/human/EPAR/eliquis
+2026-11-13 09:49:31,315 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/ondexxya: тема «apixaban» найдена в заголовке или аннотации
+2026-11-13 09:51:03,328 - INFO - archiv_tracker.validator - ✅ dailymed:10db92f9-2300-4a80-836b-673e1ae91610: тема «Xarelto» найдена в заголовке или аннотации
+2026-11-13 09:51:04,732 - INFO - archiv_tracker.validator - ✅ dailymed:d0e105f6-28f3-45ee-83bd-7d458835242b: тема «Xarelto» найдена в заголовке или аннотации
+2026-11-13 09:51:06,997 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/xarelto: тема «Xarelto» найдена в заголовке или аннотации
+2026-11-13 09:54:35,672 - INFO - archiv_tracker.validator - ✅ dailymed:10db92f9-2300-4a80-836b-673e1ae91610: тема «Xarelto» найдена в заголовке или аннотации
+2026-11-13 09:54:37,088 - INFO - archiv_tracker.validator - ✅ dailymed:d0e105f6-28f3-45ee-83bd-7d458835242b: тема «Xarelto» найдена в заголовке или аннотации
+2026-11-13 09:54:39,541 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/xarelto: тема «Xarelto» найдена в заголовке или аннотации
+2026-11-13 09:56:36,887 - INFO - archiv_tracker.validator - ✅ dailymed:e98f6d83-5172-97a1-ee41-5d7d1d8ba2fd: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:56:38,154 - INFO - archiv_tracker.validator - ✅ dailymed:d6de1719-6fbd-4386-9f81-d65980dc4bd8: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:56:39,499 - INFO - archiv_tracker.validator - ✅ dailymed:10db92f9-2300-4a80-836b-673e1ae91610: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:56:41,790 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/rivaroxaban-viatris: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:56:42,071 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/svariya: тема «rivaroxaban» найдена в заголовке или аннотации
+2026-11-13 09:56:42,348 - INFO - archiv_tracker.validator - ✅ ema:https://www.ema.europa.eu/en/medicines/human/EPAR/xarelto: тема «rivaroxaban» найдена в заголовке или аннотации
